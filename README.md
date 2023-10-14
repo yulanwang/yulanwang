@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to read
 -->
+
++# Yulan Wang's Resume
++
++## Education
++**Northeastern University**, Khoury College of Computer Sciences
++*Candidate: Bachelor of Science in Computer Science with a Minor in Mathematics*
++Boston, MA | Sep 2023 - May 2027
