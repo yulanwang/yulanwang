@@ -3,7 +3,7 @@
 # Yulan Wang
 ## Education
 **Northeastern University**, Khoury College of Computer Sciences
-*Candidate: Bachelor of Science in Computer Science with a Minor in Mathematics*
+*Candidate: Bachelor of Science in Computer Science and Mathematics*
 Boston, MA | Sep 2023 - May 2027
 
 - ⭐ I'm interested in applying ML/NLP in the Finance, Banking, and Business sectors
