@@ -3,6 +3,7 @@
 # Yulan Wang
 ## Education
 **Northeastern University**, Khoury College of Computer Sciences
+
 *Candidate: Bachelor of Science in Computer Science and Mathematics*
 Boston, MA | Sep 2023 - May 2027
 
