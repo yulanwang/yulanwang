@@ -5,7 +5,7 @@
 **Northeastern University**, Khoury College of Computer Sciences
 
 *Candidate: Bachelor of Science in Computer Science and Mathematics*
-Boston, MA | Sep 2023 - May 2027
+Boston, MA | Sep 2023 - Dec 2026
 
 - ⭐ I'm interested in applying ML/NLP in the Finance, Banking, and Business sectors
 - 👯 I’m looking to collaborate on data science related projects/research
